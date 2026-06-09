@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-08",
+  "timestamp": "2026-06-08T15:25:22",
+  "sources_requested": [
+    "open_meteo",
+    "yr_no",
+    "openweathermap",
+    "weatherapi",
+    "tomorrow_io",
+    "meteoblue",
+    "meteo_az",
+    "gismeteo",
+    "gismeteo_tomorrow"
+  ],
+  "successful_sources": [
+    "open_meteo",
+    "yr_no",
+    "openweathermap",
+    "weatherapi",
+    "tomorrow_io",
+    "meteoblue",
+    "meteo_az",
+    "gismeteo",
+    "gismeteo_tomorrow"
+  ],
+  "failed_sources": [],
+  "windows_found": 12,
+  "message": "🌿 *XAÇMAZ ÇİLƏMƏ KÖMƏKÇİSİ*\n📅 08 İyun 2026, saat 08:00\n📡 9 mənbədən məlumat alındı\n\n✅ *12 çiləmə pəncərəsi tapıldı:*\n\n*Pəncərə 1:*\n🕐 8 İyun, saat 19:00 → 21:00 (2 saat)\n💨 Külək: ortalama 12.8 km/s\n🌧 Yağış ehtimalı: 4.3%\n📊 Etibarlılıq: 🟢 Yüksək (6 mənbə)\n\n*Pəncərə 2:*\n🕐 9 İyun, saat 06:00 → 11:00 (5 saat)\n💨 Külək: ortalama 12.0 km/s\n🌧 Yağış ehtimalı: 5.1%\n📊 Etibarlılıq: 🟢 Yüksək (7 mənbə)\n\n*Pəncərə 3:*\n🕐 9 İyun, saat 19:00 → 21:00 (2 saat)\n💨 Külək: ortalama 13.6 km/s\n🌧 Yağış ehtimalı: 7.0%\n📊 Etibarlılıq: 🟢 Yüksək (7 mənbə)\n\n*Pəncərə 4:*\n🕐 10 İyun, saat 06:00 → 09:00 (3 saat)\n💨 Külək: ortalama 12.1 km/s\n🌧 Yağış ehtimalı: 2.9%\n📊 Etibarlılıq: 🟢 Yüksək (7 mənbə)\n\n*Pəncərə 5:*\n🕐 10 İyun, saat 19:00 → 21:00 (2 saat)\n💨 Külək: ortalama 13.2 km/s\n🌧 Yağış ehtimalı: 3.8%\n📊 Etibarlılıq: 🟢 Yüksək (6 mənbə)\n\n*Pəncərə 6:*\n🕐 11 İyun, saat 06:00 → 12:00 (6 saat)\n💨 Külək: ortalama 12.2 km/s\n🌧 Yağış ehtimalı: 2.1%\n📊 Etibarlılıq: 🟢 Yüksək (6 mənbə)\n\n*Pəncərə 7:*\n🕐 11 İyun, saat 16:00 → 17:00 (1 saat)\n💨 Külək: ortalama 14.7 km/s\n🌧 Yağış ehtimalı: 18.9%\n📊 Etibarlılıq: 🟢 Yüksək (7 mənbə)\n\n*Pəncərə 8:*\n🕐 11 İyun, saat 18:00 → 20:00 (2 saat)\n💨 Külək: ortalama 13.7 km/s\n🌧 Yağış ehtimalı: 19.6%\n📊 Etibarlılıq: 🟢 Yüksək (6 mənbə)\n\n*Pəncərə 9:*\n🕐 12 İyun, saat 07:00 → 08:00 (1 saat)\n💨 Külək: ortalama 14.1 km/s\n🌧 Yağış ehtimalı: 2.5%\n📊 Etibarlılıq: 🟢 Yüksək (6 mənbə)\n\n*Pəncərə 10:*\n🕐 12 İyun, saat 10:00 → 11:00 (1 saat)\n💨 Külək: ortalama 14.3 km/s\n🌧 Yağış ehtimalı: 1.9%\n📊 Etibarlılıq: 🟢 Yüksək (7 mənbə)\n\n*Pəncərə 11:*\n🕐 12 İyun, saat 18:00 → 19:00 (1 saat)\n💨 Külək: ortalama 13.8 km/s\n🌧 Yağış ehtimalı: 3.3%\n📊 Etibarlılıq: 🟢 Yüksək (6 mənbə)\n\n*Pəncərə 12:*\n🕐 12 İyun, saat 20:00 → 21:00 (1 saat)\n💨 Külək: ortalama 14.2 km/s\n🌧 Yağış ehtimalı: 4.0%\n📊 Etibarlılıq: 🟢 Yüksək (5 mənbə)\n\n\n_Növbəti yenilənmə: sabah saat 08:00_"
+}

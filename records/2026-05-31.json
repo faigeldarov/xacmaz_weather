@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-31",
+  "timestamp": "2026-05-31T14:14:58.188230",
+  "sources_available": [
+    "open_meteo",
+    "yr_no",
+    "openweathermap",
+    "weatherapi",
+    "tomorrow_io",
+    "meteoblue",
+    "meteo_az"
+  ],
+  "windows_found": 8,
+  "message": "🌿 *XAÇMAZ ÇİLƏMƏ KÖMƏKÇİSİ*\n📅 31 May 2026, saat 08:00\n📡 5 mənbədən məlumat alındı\n\n✅ *8 çiləmə pəncərəsi tapıldı:*\n\n*Pəncərə 1:*\n🕐 31 May, saat 15:00 → 17:00 (2 saat)\n💨 Külək: ortalama 11.9 km/s\n🌧 Yağış ehtimalı: 0.0%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 2:*\n🕐 31 May, saat 19:00 → 21:00 (2 saat)\n💨 Külək: ortalama 11.8 km/s\n🌧 Yağış ehtimalı: 27.6%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 3:*\n🕐 1 İyun, saat 06:00 → 21:00 (15 saat)\n💨 Külək: ortalama 10.8 km/s\n🌧 Yağış ehtimalı: 1.0%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 4:*\n🕐 2 İyun, saat 06:00 → 07:00 (1 saat)\n💨 Külək: ortalama 14.5 km/s\n🌧 Yağış ehtimalı: 0.2%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 5:*\n🕐 2 İyun, saat 16:00 → 18:00 (2 saat)\n💨 Külək: ortalama 13.8 km/s\n🌧 Yağış ehtimalı: 25.4%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 6:*\n🕐 3 İyun, saat 06:00 → 21:00 (15 saat)\n💨 Külək: ortalama 10.1 km/s\n🌧 Yağış ehtimalı: 0.1%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 7:*\n🕐 4 İyun, saat 06:00 → 21:00 (15 saat)\n💨 Külək: ortalama 7.1 km/s\n🌧 Yağış ehtimalı: 1.6%\n📊 Etibarlılıq: 🟢 Yüksək (4 mənbə)\n\n*Pəncərə 8:*\n🕐 5 İyun, saat 06:00 → 14:00 (5 saat)\n💨 Külək: ortalama 8.4 km/s\n🌧 Yağış ehtimalı: 0.4%\n📊 Etibarlılıq: 🟠 Aşağı (1 mənbə)\n\n⚠️ *meteo.az-dan məlumat alına bilmədi* (saytın strukturu dəyişmiş ola bilər)\nℹ️ Əlaqə qurulmayan mənbələr: tomorrow_io\n\n_Növbəti yenilənmə: sabah saat 08:00_"
+}

@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Xaçmaz Çiləmə",
+    "slug": "xacmaz-weather-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "jsEngine": "jsc",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "az.xacmazweather.spray",
+      "adaptiveIcon": {
+        "backgroundColor": "#f4f7ef"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "apiBaseUrl": "https://xacmaz-weather-api.onrender.com",
+      "eas": {
+        "projectId": "a3803547-bd6f-4ed9-ac2c-d59d4b79e79a"
+      }
+    }
+  }
+}

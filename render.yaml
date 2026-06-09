@@ -1,0 +1,43 @@
+services:
+  - type: web
+    name: xacmaz-weather-api
+    runtime: docker
+    plan: free
+    region: frankfurt
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: LATITUDE
+        value: "41.375480"
+      - key: LONGITUDE
+        value: "48.817978"
+      - key: CITY_NAME
+        value: "Xaçmaz"
+      - key: TIMEZONE
+        value: "Asia/Baku"
+      - key: OPENWEATHERMAP_API_KEY
+        sync: false
+      - key: WEATHERAPI_API_KEY
+        sync: false
+      - key: TOMORROW_IO_API_KEY
+        sync: false
+      - key: METEOBLUE_API_KEY
+        sync: false
+      - key: METEO_AZ_VALUE_HEADER
+        sync: false
+      - key: CALLMEBOT_PHONE
+        sync: false
+      - key: CALLMEBOT_APIKEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: "gpt-5.4-mini"
+      - key: OPENAI_REASONING_EFFORT
+        value: "medium"
+      - key: AI_ANALYSIS_DAYS
+        value: "3"
+      - key: AI_MIN_WINDOW_HOURS
+        value: "3"

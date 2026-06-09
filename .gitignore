@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+mobile_app/.expo/
+mobile_app/dist/
+mobile_app/node_modules/
+mobile_app/*.apk
