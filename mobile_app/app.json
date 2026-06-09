@@ -2,7 +2,7 @@
   "expo": {
     "name": "Xaçmaz Çiləmə",
     "slug": "xacmaz-weather-mobile",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "jsEngine": "jsc",
@@ -14,6 +14,7 @@
     },
     "android": {
       "package": "az.xacmazweather.spray",
+      "versionCode": 2,
       "adaptiveIcon": {
         "backgroundColor": "#f4f7ef"
       }
