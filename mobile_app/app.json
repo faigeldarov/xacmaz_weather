@@ -2,7 +2,7 @@
   "expo": {
     "name": "Xaçmaz Çiləmə",
     "slug": "xacmaz-weather-mobile",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "jsEngine": "hermes",
@@ -15,7 +15,7 @@
     },
     "android": {
       "package": "az.xacmazweather.spray",
-      "versionCode": 4,
+      "versionCode": 5,
       "jsEngine": "hermes",
       "newArchEnabled": false,
       "adaptiveIcon": {
@@ -30,6 +30,9 @@
       "eas": {
         "projectId": "a3803547-bd6f-4ed9-ac2c-d59d4b79e79a"
       }
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
